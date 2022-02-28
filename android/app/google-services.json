@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "221156801500",
+    "firebase_url": "https://my-candet.firebaseio.com",
+    "project_id": "my-candet",
+    "storage_bucket": "my-candet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221156801500:android:c63cdc091f4b2adbc26d19",
+        "android_client_info": {
+          "package_name": "com.cicada.candet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221156801500-4pdhrq30q7p582fkkn6g10op9egk4e7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ0ZcYGnRapu_0iC8xZJ4kv9oMtHvflT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221156801500-4pdhrq30q7p582fkkn6g10op9egk4e7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
